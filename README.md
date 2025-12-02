@@ -11,9 +11,8 @@ Instead of manually filling out spreadsheets, users simply chat with an AI Agent
 📸 Demo & Screenshots
 
 <div align="center">
-<!-- REPLACE 'demo.png' and 'architecture.png' with your actual file names inside frontend/assets/ -->
-<img src="frontend/assets/src/wallet.png" alt="ExpenseAI Dashboard" width="45%">
-<img src="frontend/assets/src/ui.png" alt="Blockchain Transaction Success" width="45%">
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/Sukhdevsingh123/Task_Tracking/main/frontend/src/assets/ui.png" alt="ExpenseAI Dashboard" width="45%">
+<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/Sukhdevsingh123/Task_Tracking/main/frontend/src/assets/wallet.png" alt="Blockchain Transaction Success" width="45%">
 </div>
 
 🏗 Architecture
@@ -161,4 +160,4 @@ Integration: Deep usage of Durable Objects for session state and Thirdweb for wa
 
 This project is open-source and available under the MIT License.
 
-Built with ❤️ by [Sukhdev Singh]
+Built with ❤️ by Sukhdev Singh
