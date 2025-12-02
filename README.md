@@ -12,8 +12,8 @@ Instead of manually filling out spreadsheets, users simply chat with an AI Agent
 
 <div align="center">
 <!-- REPLACE 'demo.png' and 'architecture.png' with your actual file names inside frontend/assets/ -->
-<img src="frontend/assets/wallet.png" alt="ExpenseAI Dashboard" width="45%">
-<img src="frontend/assets/ui.png" alt="Blockchain Transaction Success" width="45%">
+<img src="frontend/assets/src/wallet.png" alt="ExpenseAI Dashboard" width="45%">
+<img src="frontend/assets/src/ui.png" alt="Blockchain Transaction Success" width="45%">
 </div>
 
 🏗 Architecture
