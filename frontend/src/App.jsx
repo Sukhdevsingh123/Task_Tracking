@@ -29,7 +29,7 @@ function WalletConnectUI() {
             </div>
             <div>
               <h1 className="font-bold text-lg tracking-tight">AI Expense Tracker</h1>
-              <p className="text-xs text-neutral-400 font-medium">Powered by Sepolia Eth</p>
+              <p className="text-xs text-neutral-400 font-medium">Powered by Nullshot</p>
             </div>
           </div>
           <div className="scale-90 transform origin-right">
