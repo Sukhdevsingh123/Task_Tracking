@@ -11,6 +11,8 @@ Instead of manually filling out spreadsheets, users simply chat with an AI Agent
 📸 Demo & Screenshots
 
 # ![Task_Tracking](frontend/src/assets/wallet.png)
+# ![Task_Tracking](frontend/src/assets/ui.png)
+
 
 🏗 Architecture
 
