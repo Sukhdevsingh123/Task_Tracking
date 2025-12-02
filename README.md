@@ -10,10 +10,7 @@ Instead of manually filling out spreadsheets, users simply chat with an AI Agent
 
 📸 Demo & Screenshots
 
-<div align="center">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/Sukhdevsingh123/Task_Tracking/main/frontend/src/assets/ui.png" alt="ExpenseAI Dashboard" width="45%">
-<img src="https://www.google.com/url?sa=E&source=gmail&q=https://raw.githubusercontent.com/Sukhdevsingh123/Task_Tracking/main/frontend/src/assets/wallet.png" alt="Blockchain Transaction Success" width="45%">
-</div>
+# ![Task_Tracking](frontend/src/assets/wallet.png)
 
 🏗 Architecture
 
